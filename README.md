@@ -1,6 +1,6 @@
 # CourseraDataBricksCourseFixes
 
-## For the module 7 (3.Exercise-Deduplication-of-Data)
+## For the module 4 (3.Exercise-Deduplication-of-Data)
 The code is dirty, but I don't have an aim to make it brilliant perfect. Just make it work, that's it.
 
 1. Upload the file from the repo into your databricks workspace - [customer_data.csv](https://github.com/Antonio-Ingegnere/CourseraDataBricksCourseFixes/blob/main/customer_data.csv)
